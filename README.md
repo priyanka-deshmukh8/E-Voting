@@ -1,5 +1,5 @@
 # Block-Vote
-
+## Minor Poject 5th Semester (MITS GWALIOR)
 ## Overview
 The Blockchain-Based Voting System is a secure and transparent voting solution that leverages blockchain technology to ensure the integrity and immutability of the voting process. This readme file provides an introduction to the system, its features, and instructions for installation and usage.
 
@@ -40,8 +40,12 @@ When deploying and using the Blockchain-Based Voting System, consider the follow
 4. **Network Security**: Implement appropriate security measures to protect the blockchain network from attacks, such as DDoS or Sybil attacks.
 5. **User Education**: Educate users about best practices for online security, such as avoiding phishing attempts and using secure passwords.
 
-## Contributing
-Contributions to the Blockchain-Based Voting System are welcome! If you have any ideas, improvements, or bug fixes, please submit a pull request. Make sure to follow the existing coding style and conventions.
+## Contributers
+1. Priyanka Deshmukh
+2. Priyansh Jain 
+3. Shivali Shukla
+4. Pushpendra Patel
+5. Madhav Narayan Yadav
 
 ## License
 The Blockchain-Based Voting System is open-source software licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute the software in accordance with the terms and conditions of the license.
