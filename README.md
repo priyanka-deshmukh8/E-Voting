@@ -1,4 +1,4 @@
-# Block-Vote
+# E-Voting
 ## Minor Poject 5th Semester (MITS GWALIOR)
 ## Overview
 The Blockchain-Based Voting System is a secure and transparent voting solution that leverages blockchain technology to ensure the integrity and immutability of the voting process. This readme file provides an introduction to the system, its features, and instructions for installation and usage.
